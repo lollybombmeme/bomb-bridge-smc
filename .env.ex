@@ -1,0 +1,13 @@
+ETHEREUM_API_KEY= <Etherscan apikey>
+BNB_API_KEY= <Bnb apikey>
+# Token Address
+TOKEN_ADDRESS = 0x...
+# Signer address, address with prefix "0x" and separate by "," whichs deployed in bridge smart contract 
+# Must correct order
+SINGER_ADDRESSES = 0x...,0x...,0x...
+# Pool Address
+POOL_ADDRESS = 0x...
+# Threshold in bridge smart contract
+THRESHOLD = 3
+# Owner address 
+OWNER_ADDRESS = 0x...
